@@ -468,16 +468,16 @@
         },
         {
             "name": "kharysharpe/laravel-json-api-resource",
-            "version": "0.1.3",
+            "version": "0.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/kharysharpe/laravel-json-api-resource.git",
-                "reference": "1c31898ae15e036d073d95b8b6a3d0e0db6b4503"
+                "reference": "89a6ae5f4cfd063f65c72806099a4a20b2d409d9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kharysharpe/laravel-json-api-resource/zipball/1c31898ae15e036d073d95b8b6a3d0e0db6b4503",
-                "reference": "1c31898ae15e036d073d95b8b6a3d0e0db6b4503",
+                "url": "https://api.github.com/repos/kharysharpe/laravel-json-api-resource/zipball/89a6ae5f4cfd063f65c72806099a4a20b2d409d9",
+                "reference": "89a6ae5f4cfd063f65c72806099a4a20b2d409d9",
                 "shasum": ""
             },
             "require": {
@@ -521,7 +521,7 @@
                 "kharysharpe",
                 "laravel-json-api-resource"
             ],
-            "time": "2019-07-20T13:27:18+00:00"
+            "time": "2019-07-20T13:54:06+00:00"
         },
         {
             "name": "laravel/framework",
